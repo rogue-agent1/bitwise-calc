@@ -1,8 +1,19 @@
-# bitwise-calc
-Bitwise operations calculator with binary visualization. Zero dependencies.
+# bitwise_calc
+
+Bitwise calculator — AND, OR, XOR, shifts, popcount, bit tricks
+
 ## Usage
+
+```bash
+python3 bitwise_calc.py --help
 ```
-python3 bitwise_calc.py 0xFF and 0x0F
-python3 bitwise_calc.py not 42
-python3 bitwise_calc.py 0b11010110
-```
+
+## Features
+
+- Single file, zero dependencies
+- Python 3.8+ compatible
+- CLI interface
+
+## License
+
+MIT
